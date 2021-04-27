@@ -1,0 +1,9 @@
+.app {
+	/* background-color: #f39f86;
+	font-size: 45px;background-ima
+	ge: linear-gradient(315deg, #f39f86 0%, #f9d976 74%); */
+
+	background: linear-gradient(to right, #940422, #051a8b);
+	height: 100vh;
+	width: 100%;
+}
